@@ -1,0 +1,14 @@
+{
+  "name": "enroller",
+  "version": "1.0.0",
+  "description": "A google cloud pubsub subscriber that supports batched operations",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.13.1",
+    "p-waterfall": "^1.0.0"
+  }
+}
