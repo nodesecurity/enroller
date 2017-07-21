@@ -1,6 +1,6 @@
 {
   "name": "enroller",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A google cloud pubsub subscriber that supports batched operations",
   "main": "lib/index.js",
   "scripts": {},
